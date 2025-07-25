@@ -1,6 +1,6 @@
 # 🎙️ Audio Recorder App (React)
 
-A lightweight React app that allows users to record audio using their microphone, view the duration of their recording, and download the final audio as a `.webm` file.
+A lightweight React app that allows users to record audio using their microphone,  and download the final audio as a `.webm` file.
 
 ---
 
